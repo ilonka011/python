@@ -24,3 +24,4 @@ fruit = ['orange', 'apple', 'banana', 'strawberry', 'blueberry', 'persimmon']
 fruit.append('kiwi')
 fruit.insert(3, 'lemon')
 print(fruit)
+print('I am here now; and yes, again')
