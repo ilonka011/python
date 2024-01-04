@@ -1,5 +1,4 @@
 # checking the 'type' command
-print(type(72))
 print(type('Leondardo da Vinci'))
 print(type([223, 14, 23, 20, 99999]))
 
