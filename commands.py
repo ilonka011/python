@@ -22,3 +22,4 @@ print(len(list1))
 
 never_mind = 'Sorry for saying that'
 print(len(never_mind))
+print(len(never_mind))
