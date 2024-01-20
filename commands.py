@@ -14,7 +14,7 @@ print(round(126.1112))
 input('What is the weather like? ')
 
 #checking the 'len' command
-love = 'I love him'
+love = 'I love him a lot'
 print(len(love))
 
 list1 = [11, 23, 99, 20, 97, 87]
