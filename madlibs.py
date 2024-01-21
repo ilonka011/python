@@ -10,5 +10,5 @@ age = input('Your age: ')
 residence = input('Where do you live?(city) ')
 goal = input('One of your goals for this year: ')
 
-your_story = f'My name is {name} and I am {age} years old. Currently, I live in {residence}. Today is the first day of 2024 and one of my resolutions for this year is {goal}. I will work hard towards my goal. '
+your_story = f'My name is {name} and I am {age} years old. Currently, I live in {residence}. Today is the first day of 2024 and one of my resolutions for this year is {goal}. I will definitely work hard towards my goal. '
 print(your_story)
