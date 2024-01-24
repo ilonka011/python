@@ -9,9 +9,11 @@ for i in range(1, 7):
 # checking the 'round'' command
 print(round(23.76890013))
 print(round(126.1112))
+print(round(999.78))
 
 # cheking the 'input' command
 input('What is the weather like? ')
+input('What is your age (in years) ?')
 
 #checking the 'len' command
 love = 'I love him a lot'
