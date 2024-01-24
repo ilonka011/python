@@ -23,5 +23,8 @@ print(my_name.center(20))
 fruit = ['orange', 'apple', 'banana', 'strawberry', 'blueberry', 'persimmon']
 fruit.append('kiwi')
 fruit.insert(3, 'lemon')
+fruit.insert(5, 'graviola')
+fruit.insert(2, 'pitomba')
+fruit.insert(3, 'pinha')
 print(fruit)
 print('I am here now; and yes, again')
