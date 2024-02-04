@@ -1,3 +1,5 @@
+import random
+
 # checking the 'type' command
 print(type('Leondardo da Vinci'))
 print(type([223, 14, 23, 20, 99999]))
@@ -21,6 +23,9 @@ print(len(love))
 
 list1 = [11, 23, 99, 20, 97, 87]
 print(len(list1))
+
+fruit = ['banana', 'jaca', 'maracuja', 'pitomba', 'jambo', 'cherry']
+print(random.choose(fruit))
 
 never_mind = 'Sorry for saying that'
 print(len(never_mind))
