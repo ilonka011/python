@@ -6,6 +6,7 @@ users = {
 }
 
 del users['Jane']
+# Testing the append; may have errors
 users.append['Sofia', 14]
 print(users)
 print(users['Milena'])
