@@ -6,5 +6,6 @@ users = {
 }
 
 del users['Jane']
+users.append['Sofia', 14]
 print(users)
 print(users['Milena'])
