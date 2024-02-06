@@ -7,3 +7,4 @@ users = {
 
 del users['Jane']
 print(users)
+print(users['Milena'])
