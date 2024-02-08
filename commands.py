@@ -7,7 +7,8 @@ print(type([223, 14, 23, 20, 99999]))
 # checking the 'range' command
 for i in range(1, 7):
     print(i)
-
+for n in range(8, 29):
+    print(n)
 # checking the 'round'' command
 print(round(23.76890013))
 print(round(126.1112))
