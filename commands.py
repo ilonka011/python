@@ -3,6 +3,7 @@ import random
 # checking the 'type' command
 print(type('Leondardo da Vinci'))
 print(type([223, 14, 23, 20, 99999]))
+print(type(True))
 
 # checking the 'range' command
 for i in range(1, 7):
