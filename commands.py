@@ -33,4 +33,3 @@ print(random.choose(fruit))
 never_mind = 'Sorry for saying that'
 print(len(never_mind))
 print(len(love))
-print(len(fruit))
