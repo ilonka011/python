@@ -28,8 +28,6 @@ print(len(list1))
 fruit = ['banana', 'jaca', 'maracuja', 'pitomba', 'jambo', 'cherry']
 print(random.choose(fruit))
 print('Eat some more!!!')
-print(random.choose(fruit))
-
 never_mind = 'Sorry for saying that'
 print(len(never_mind))
 print(len(love))
