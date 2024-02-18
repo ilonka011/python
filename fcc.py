@@ -11,6 +11,6 @@ users.append['Sofia', 14]
 print(users)
 
 def main():
-    numbers = [11, 14, 22, 23, 75, 68, 25, 45]
+    numbers = [11, 14, 22, 23, 75, 68]
     for n im range(numbers):
         print(n)
